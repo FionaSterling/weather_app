@@ -30,3 +30,16 @@ input {
 table {
   margin-top: 50px;
 }
+
+.badge-in {
+  background-color: green;
+}
+
+.badge-out {
+  background-color: red;
+}
+
+.badge {
+  margin: 5px;
+  width: 100%;
+}
