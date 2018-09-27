@@ -1,0 +1,32 @@
+form {
+  margin: 50px auto;
+}
+
+input {
+  margin: 10px;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.card-title, .card-text {
+  padding-left: 20px;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.good_food {
+  color: green;
+}
+
+.bad_food {
+  color: red;
+}
+
+table {
+  margin-top: 50px;
+}
